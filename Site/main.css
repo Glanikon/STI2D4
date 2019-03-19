@@ -1,0 +1,39 @@
+html {
+	background:#505D6E no-repeat center center fixed; 
+	min-height:100%;
+	-webkit-background-size: cover;
+	   -moz-background-size: cover;
+	        background-size: cover;
+}
+body
+{
+	background-image : url("Fond.jpg");
+}
+.table
+{
+	border : 3px green inset;
+	color : white;
+}
+h1
+{
+	font-weight : bold;
+	font-family : sans-serif;
+}
+.alerte
+{
+	box-shadow : 2px 2px 2px black;
+	border : 2px solid;
+	border-radius : 8px;
+	width : 40%;
+	height : 20%;
+	margin : auto;
+	color : black;
+}
+p
+{
+   color : red;
+}
+#div_horloge
+{
+	color : red;
+}
